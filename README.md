@@ -1,20 +1,18 @@
 # 👋 Olá! Eu sou o Fernando  
 
-💻 QA Engineer | 🔍 Testes Automatizados | 🛡️ Entusiasta em Cibersegurança  
+💻 QA Engineer | 🔍 Testes Automatizados
 
 ## 🚀 Sobre mim  
 🎓 Último período de **Análise e Desenvolvimento de Sistemas**  
 🔹 Apaixonado por **garantia da qualidade de software (QA)**  
 🔹 Experiência com **testes manuais e automatizados**  
-🔹 Explorando **segurança da informação e testes de segurança**  
 
 ## 🛠️ Tecnologias e Ferramentas  
 🔹 **Testes Automatizados:** Selenium, Cypress, Playwright, Jest  
-🔹 **Testes Manuais:** TestRail, Postman (API Testing)  
-🔹 **Linguagens:** JavaScript, Python, SQL  
-🔹 **Banco de Dados:** PL/SQL, PostgreSQL, MySQL  
-🔹 **DevOps:** Docker, GitHub Actions  
-🔹 **Segurança:** OWASP Top 10, Pentests básicos  
+🔹 **Testes Manuais:** Postman (API Testing)  
+🔹 **Linguagens:** JavaScript, Python, SQL , Ruby
+🔹 **Banco de Dados:** Oracle, SQL Server 
+🔹 **DevOps:** Docker  
 
 ## 📊 GitHub Stats  
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfernandodev&show_icons=true&theme=radical)  
